@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a judge. In a letter from the country, to a friend in the city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01987</idno>
+            <idno type="STC">Wing C1977A</idno>
+            <idno type="STC">ESTC N47165</idno>
+            <idno type="EEBO-CITATION">53298985</idno>
+            <idno type="OCLC">ocm 53298985</idno>
+            <idno type="VID">179762</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179762)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2802:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a judge. In a letter from the country, to a friend in the city.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>c. 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: faded, print show-through with loss of text.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Judges --  Selection and appointment --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179762:1" rendition="simple:additions"/>
+            <head>
+               <hi>The Character of a Judge.</hi> In a Letter from the Country, to a Friend in the City.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving heard a Report, that you are to be made a <hi>Judge;</hi> I ſhall, in confidence of our former Familiarity, take that Liberty, betimes; which your after-Character might re<g ref="char:EOLhyphen"/>ſtrain; by giving my Thoughts concerning the <hi>Weights</hi> of this Poſt.</p>
+            <p>It's one of the moſt difficult, and dangerous, to the perſon who undertakes it, that occurs in the Government of this World; and you are entering into one of the moſt <hi>Capable</hi> and <hi>Beſt</hi> Soci<g ref="char:EOLhyphen"/>eties in Chriſtendome, who will very narrowly obſerve your Halting.</p>
+            <p>The Truth of my Poſition will beſt appear, by laying down the ordinary Qualifications of a Tollerable Judge: Which may be Reduced to two main Heads; namely, <hi>Capacity,</hi> and <hi>Integrity.</hi>
+            </p>
+            <p>Under Capacity, is Comprehended:</p>
+            <p n="1">1mo. A Competent <hi>Knowledge</hi> of Law, Governed by <hi>Good Senſe.</hi> Neither of which, <hi>ſeparatly,</hi> will ſuffice.</p>
+            <p>I ſhall not inlarge upon this Point; becauſe, common Subjects, muſt ſuppoſe, that their Rulers have taken care thereof.</p>
+            <p n="2">2do. <hi>Courage,</hi> Tempered with <hi>Modeſty,</hi> is Requiſit for <hi>Exert<g ref="char:EOLhyphen"/>ing</hi> ſuch Knowledge as is mentioned above.</p>
+            <p>Either of theſe, by it ſelf, may, perniciouſly Deboard. For,</p>
+            <p>Natural Complexion may be ſuch, as, on the one hand, being <hi>Heated, Swells</hi> over all the <hi>Banks</hi> of <hi>Law:</hi> Or, on the other hand, may, be ſo <hi>Chilled,</hi> upon the appearing of a great Party or Pub<g ref="char:EOLhyphen"/>lick Cauſe; as to ſink under the Weight of <hi>Timidity.</hi> Both which proceed from a <hi>Secret</hi> Spring of Natural Defects; often, without any ſet Deſign of doing Injuſtice.</p>
+            <p>The Cure of which Diſeaſes will be ſuggeſted under a ſubſe<g ref="char:EOLhyphen"/>quent Head, of Self-obſervation.</p>
+            <pb n="2" facs="tcp:179762:2"/>
+            <p>
+               <hi>Integrity</hi> doth Compriſe many Ingredients, Reducible to <hi>Im<g ref="char:EOLhyphen"/>partiality,</hi> and <hi>Diligence.</hi>
+            </p>
+            <p>Without theſe Virtues, even a ſolid <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> accompani<g ref="char:EOLhyphen"/>ed with a diſcreet <hi>Boldneſs,</hi> will not ſerve the <hi>Ends</hi> of Judge<g ref="char:EOLhyphen"/>ment deſigned by GOD and Man; but, on the contrary, may be <hi>abuſed</hi> to the worſt purpoſe of perverting Juſtice <hi>more Effectually.</hi>
+            </p>
+            <p>Impartiality Excluds:</p>
+            <p n="1">1mo. All <hi>Reſpect of Perſons</hi> (beyond Civility of Good Breed<g ref="char:EOLhyphen"/>ing) whether <hi>Parties</hi> or <hi>Pleaders,</hi> concerned in a Cauſe: And is intirely directed by the Merit or Demerit of the <hi>thing,</hi> pro<g ref="char:EOLhyphen"/>ven or to be proven, in <hi>Law.</hi>
+            </p>
+            <p>Nothing is more agreeable to the nature of Judgement; and more neceſſary for Reſtraining the Arbitrary Proceedings of Judges: Which is the ground whereupon, Scripture, Reaſon, and Humane Authority, has fixed this Indefezible Rule. And which is to be extended even to <hi>caſus pro amico;</hi> Tho', in the moſt <hi>dubious</hi> Caſe, or <hi>ſmalleſt</hi> Matter.</p>
+            <p>Becauſe,</p>
+            <p>For diſcovering this great <hi>Snare</hi> (of <hi>caſus pro amico</hi>) the moſt dangerous that is laid by the <hi>Fowler;</hi> It is to be obſerved,</p>
+            <p n="1">1mo. That there are <hi>Rules in Law,</hi> for decideing the moſt dubious Caſes which can occur. And therefore,</p>
+            <p n="2">2do. Theſe Rules are not to be broken, for <hi>perſonal Reſpect</hi> to any <hi>privat Freind,</hi> or <hi>publick Party,</hi> whatſomever.</p>
+            <p>The Rules are obvious in the Laws and Lawyers of all Nati<g ref="char:EOLhyphen"/>ons; Even when the Arguments on both Sides are, otherways, perfectly <hi>Equal,</hi> and the Judges Conſcience cannot diſtinguiſh any <hi>difference</hi> in the <hi>Ballance:</hi> Namely, that in a matter thus doubtful, he is to give his Anſwer for the <hi>Defendant,</hi> or <hi>Poſſeſſor;</hi> Except in ſome Caſes, where the <hi>Legal Favour</hi> of the Cauſe (not of the <hi>Perſon) predomines</hi> the Priviledge or Preſumption which ſtands for the ſaid Defendant or Poſſeſſor; as it falls out ſometimes, <hi>pro pia cauſa, pro Libertate &amp;c. contra fiſcum, contra a<g ref="char:EOLhyphen"/>nimum donandi &amp;c.</hi>
+            </p>
+            <p>Theſe <hi>Subſidiary Maxims</hi> of the <hi>Law it ſelf,</hi> make the moſt un<g ref="char:EOLhyphen"/>clear Caſe in it ſelf, to become moſt clear, as to the Iſſue of De<g ref="char:EOLhyphen"/>ciſion:
+<pb n="3" facs="tcp:179762:2"/> And therefore, it's ſtill <hi>according to Law.</hi> Or if, after all, it ſtill remain obſcure, ſo that the Judge cannot vote from full <hi>Conviction</hi> (which <hi>Paul</hi> calls, of <hi>Faith</hi>) then the <hi>Law it ſelf</hi> allows a <hi>Non-Liquet.</hi>
+            </p>
+            <p>But to Surrogate <hi>in place thereof,</hi> the Judges <hi>Perſonal Reſpect;</hi> is inconſiſtent with all the Principles of <hi>Nature</hi> and <hi>Religion.</hi> For, it's an <hi>
+                  <g ref="char:V">Ʋ</g>ſurpation;</hi> he having no <hi>Commiſſion</hi> from GOD or the Sove<g ref="char:EOLhyphen"/>raign, to make the leaſt <hi>Diſtinction</hi> betwixt his <hi>proper</hi> Friends; and thoſe who are not ſo: It's <hi>Robbery;</hi> to take <hi>from another,</hi> who has the Misfortune not to be his Friend, and adjudge it to the perſon who happens to claim that peculiar Priviledge: It's directly oppoſite to <hi>Sacred Write,</hi> which forbids <hi>Reſpect of Perſons</hi> in Judgement, without Limitation; The very favouring of the Lowneſs of the <hi>Poor,</hi> as well as the Luſtre of the <hi>Mighty:</hi> It's Incompatible with the <hi>Oath de fideli;</hi> which reguards, <hi>Equally,</hi> all the Leidges, without Exception of the Receivers Kin<g ref="char:punc">▪</g> Freind, or Allay: It's againſt the common Senſe of <hi>Mankind,</hi> painting <hi>Aſtraea,</hi> or Juſtice, with a <hi>Ballance</hi> perfectly equal, without thoſe <hi>Senſes,</hi> which might diſcover <hi>Names;</hi> And thereby Inveigle in a <hi>Byaſs:</hi> It does not anſwer that <hi>Confidence,</hi> which <hi>Prince</hi> and <hi>Subjects</hi> may and ought to expect in <hi>Judges:</hi> The <hi>Prince</hi> be<g ref="char:EOLhyphen"/>ing no more concerned in <hi>their</hi> Friends than <hi>other</hi> Leidges; And which of the <hi>Subjects</hi> would not ſtand in Horrour and A-gaſt, if the Judges Friends (whether Parties or Pleaders) might be law<g ref="char:EOLhyphen"/>fully preferred, in all ſuch Caſes as he ſhall <hi>imagine</hi> to be <hi>dubious?</hi>
+            </p>
+            <p>Yet, ſtill, it may be ſaid that there remains a <hi>Legal Felicity</hi> in ſtanding <hi>Friendly with Judges:</hi> Since, thereby, 1mo. They, hav<g ref="char:EOLhyphen"/>ing <hi>a good Opinion,</hi> by <hi>Knowledge,</hi> of the Parties Character, may <hi>Watch</hi> the more narrowly that a <hi>prevailing</hi> Impreſſion or Influence do not over-run a Cauſe, <hi>Juſt</hi> in it ſelf. Yea 2do, In order to <hi>ſearch out</hi> that Juſtice which he <hi>knew not;</hi> being <hi>overlooked by Lawy<g ref="char:EOLhyphen"/>ers;</hi> I do not ſee why a Judge may not borrow from his <hi>own pri<g ref="char:EOLhyphen"/>vate time,</hi> for ſupplying <hi>ea quae deſunt Advocatis,</hi> in point of <hi>Law;</hi> or even <hi>ſuch Facts</hi> as <hi>ariſe</hi> from thoſe which are Repreſented in the Proceſs.</p>
+            <p>Thus, You ſee the utmoſt that I (tho' claiming a great ſhare
+<pb n="4" facs="tcp:179762:3"/> in your Friendſhip) do pretend to, if my Cauſe ever come be<g ref="char:EOLunhyphen"/>fore you.</p>
+            <p>
+               <hi>Diligence,</hi> ought to be verſant about two main Objects: Name<g ref="char:EOLhyphen"/>ly, It's to be obſervant of the <hi>Judge himſelf;</hi> and of the <hi>Buſineſs</hi> of Judgement.</p>
+            <p>As to the firſt,</p>
+            <p>Tho' a Judge be poſſeſt of the forgoing good Qualities, yet he needs to have a continual <hi>Watch</hi> over his <hi>Affections</hi> and <hi>Demeanaor;</hi> leaſt he be <hi>ſurpriſed</hi> by ſudden Emergents, that may derogat from the Reſpect due to his <hi>Character;</hi> or, at leaſt, bring a ſtain <hi>on Religion,</hi> and <hi>Diffidence</hi> in his Juſtice; when his <hi>Conduct ap<g ref="char:EOLhyphen"/>proaches</hi> to, or has the <hi>appearance</hi> of, <hi>Evil;</hi> tho' it fall out meerly thro' <hi>Indolence</hi> or <hi>Inadvertance,</hi> without any <hi>formed Project</hi> of wreſting Juſtice. Thus;</p>
+            <p>When one hath a Plea to mannage with a Perſon of <hi>Eminency</hi> in Church or State, or of ſingular <hi>Parts;</hi> a Man of a conſider<g ref="char:EOLhyphen"/>able <hi>Party,</hi> or one that is near in <hi>Blood-Relation,</hi> or <hi>Confidence,</hi> or of the ſame <hi>Fraternity,</hi> with the Judge; <hi>ſome</hi> are apt officiouſly to <hi>Pity</hi> and ſimpathiſe with the Party ſuppoſed to ly under theſe diſadvantages: Unleſs the Judge <hi>diſabuſe</hi> them by diſcovering a more <hi>than ordinary</hi> tenderneſs to his ſide.</p>
+            <p>When a Man is obnoxious to the <hi>Judges diſpleaſure;</hi> either, be<g ref="char:EOLhyphen"/>cauſe of his having <hi>ill Principles</hi> or <hi>Practices,</hi> Private or Publick, <hi>without doors;</hi> or upon account of <hi>by-quarrels:</hi> He's preſently in a Terror that this will <hi>Sway</hi> Judgement againſt him; and <hi>others</hi> are too apt to go in with this Fooliſh Notion: Unleſs it be Con<g ref="char:EOLhyphen"/>futed by the Judge's <hi>diſtinguiſhing</hi> the <hi>Perſon</hi> from the <hi>Cauſe,</hi> and one <hi>Caſe</hi> from <hi>another.</hi>
+            </p>
+            <p>Yea, tho' a <hi>Regular Paſſion</hi> be juſtly Excited in a Judge; as when Parties are <hi>Litigious,</hi> drive off their Cauſes to the <hi>End</hi> of a Seſſion, <hi>Lawyers</hi> are weak, of ſuſpected Character, or Ramble; it no ways alters the <hi>Rule of Judgement</hi> in <hi>the principal Cauſe:</hi> but only Subjects the <hi>Perſon</hi> to <hi>Legal Chaſtiſements,</hi> of Expences, Fine, or Reprimand.</p>
+            <p>Nothing gives greater occaſion to the Scandalous <hi>Trade</hi> of <hi>Count<g ref="char:EOLhyphen"/>ing Noſes,</hi> before hand, upon the preſumption of a Judge's having
+<pb n="5" facs="tcp:179762:3"/> eſpouſed <hi>a ſide;</hi> then the voteing of a Cauſe <hi>in Bulk,</hi> upon the <hi>whole Matter;</hi> As if the <hi>particular Deciſive</hi> Points thereof could not <hi>abide the teſt.</hi> And a Judges <hi>going through to vote in every Point</hi> (tho' perhaps not tenible, <hi>by it ſelf</hi>) of a Cauſe, thought, by him, to be juſt in <hi>the main;</hi> is equally inexcuſable: For <hi>evil is not to be done</hi> that <hi>Good may come of it.</hi>
+            </p>
+            <p>A Judges uſeng <hi>weak,</hi> or <hi>Impertinent,</hi> Arguments, even for a <hi>Good Cauſe;</hi> gives an Impreſſion to the Audience, that he is <hi>too earneſt,</hi> that it ſhould carry, without Reſpect to the <hi>Juſtice or Merits</hi> of it: As the <hi>Paſſions</hi> of Anger, or Pleaſure, betrayed by <hi>Words</hi> or even <hi>Geſtures;</hi> give Impreſſions, that <hi>Affection</hi> predo<g ref="char:EOLhyphen"/>mines over <hi>Reaſon,</hi> in that Matter.</p>
+            <p>If one <hi>ſpeak much,</hi> where there is <hi>no neceſſity</hi> in reſpect that the <hi>general Bent</hi> goes <hi>Right;</hi> Beholders will conclude, that it's a <hi>Vanity</hi> to be <hi>eſteemed Valuable,</hi> or to inhaunce Imployment on <hi>his Depen<g ref="char:EOLhyphen"/>dants:</hi> Beſides, that it's a <hi>Robbing the Leidges</hi> of <hi>that time,</hi> to which they are Intituled for diſpatching their Cauſes.</p>
+            <p>Yea, even an <hi>Affectation</hi> of Gratifying one, or Mortifying ano<g ref="char:EOLhyphen"/>ther; tho' the Cauſe will bear the <hi>Deciſion;</hi> is acting from a wrong <hi>Principle,</hi> in an Irregular <hi>manner,</hi> and to a ſiniſtrous <hi>End:</hi> Either of which, doth vitiat <hi>a thing,</hi> tho' good <hi>upon the Matter.</hi>
+            </p>
+            <p>A Chriſtian muſt abſtain not only from <hi>Evil,</hi> but likeways from the very <hi>Appearance</hi> of it, or <hi>approaches</hi> to it. And therefore, when ever the Judge Diſcovers, by the Appearance, of the <hi>Parties,</hi> or <hi>Pleaders,</hi> or <hi>Cauſe;</hi> that the <hi>perverſe Notion</hi> of a <hi>Byaſs</hi> may be ſur<g ref="char:EOLhyphen"/>miſed: He ought, with a Jealous Eye, to be upon <hi>Guard,</hi> and take a peculiar <hi>Care,</hi> for making appear to the World, that he decides from a Principle of <hi>Juſtice,</hi> and is not acted by any <hi>baſe End</hi> of Gratification, <hi>&amp;c.</hi>
+            </p>
+            <p>But nothing is more unlike to this Spirit and Conduct; if any ſhould <hi>lead about,</hi> induſtriouſly, thoſe <hi>B</hi>—ts (called P—ts) as <hi>ware expoſed</hi> to the People; or make a Semblance of ordering Proceſſes ſo, as to Enhaunce the Perquiſites of <hi>Servants. Obſtinacy,</hi> likeways, in an <hi>Intenible</hi> Point, does, moſtly, preſup<g ref="char:EOLhyphen"/>poſe <hi>ſuch Springs,</hi> tho' often Inviſible; and <hi>Tirrannical Grimaces,</hi> make a <hi>ſhew of Will,</hi> frequently, when <hi>Power</hi> is deficient: at leaſt,
+<pb facs="tcp:179762:4"/> we who are Country-men, and our Agents, make this Interpreta<g ref="char:EOLhyphen"/>tion of ſuch <hi>Appearances:</hi> Wherein it is not fit to be more ex<g ref="char:EOLhyphen"/>plicite.</p>
+            <p>There are many other Duties, tho' ſome-what of different na<g ref="char:EOLhyphen"/>ture, Incumbent on a Judge; the <hi>Omiſſion</hi> whereof doth mightily ſtain his Character. Thus</p>
+            <p>The uſeing <hi>Scripture-Phraſes,</hi> meerly to make <hi>a Chime</hi> or <hi>Jeſt;</hi> is the worſt of <hi>Sacriledge:</hi> And even <hi>Coarſe Expreſſions,</hi> tho quaint enough in private Converſation; Expoſe the <hi>Gravity</hi> of a Judge's Character, to the ſcorn of the <hi>Mobb.</hi> Solomon ſought <hi>out fitt Words.</hi>
+            </p>
+            <p>A Court ought to beware <hi>of Covering,</hi> by a Deciſion betwixt two Parties; any <hi>Tranſaction</hi> in prejudice of a third: Or <hi>laying a Precedent,</hi> as <hi>a train;</hi> for another ſucceeding Caſe. Which is, in ſome degree, like the ſentence againſt <hi>NABOTH;</hi> and a pro<g ref="char:EOLhyphen"/>ſtituting Judgment, to <hi>a Cloak of Intrigue.</hi> An endeavour to ſpoyl a juſt Interloquitor, by an <hi>ackward ſtate</hi> of the Caſe; or ſtretching the words <hi>ſo high,</hi> (tho needleſly) as it cannot ſtand: and final<g ref="char:EOLhyphen"/>ly, all <hi>Captious Cunning,</hi> againſt the true Import of the <hi>thing,</hi> or the meaning, of the Majority; may be Ranked under the <hi>ſame head.</hi>
+            </p>
+            <p>Let every one be <hi>perſuaded in his own</hi> mind; for what's <hi>not of Faith</hi> (doubting) <hi>is Sin.</hi> And therefore, no reguard to the <hi>par<g ref="char:EOLhyphen"/>ty,</hi> or <hi>a fellow Judges opinion,</hi> muſt make one to <hi>ſtiffle</hi> his own, deli<g ref="char:EOLhyphen"/>berate, <hi>Sentiment;</hi> and <hi>Reaſons</hi> for it. Since that would be to hold the <hi>Truth in unrighteouſneſs;</hi> and he who <hi>doth not</hi> Endeavour to <hi>hinder wrong,</hi> when he ought, and (probably) may do it; is an <hi>Interpretative actor</hi> in it.</p>
+            <p>No Judge ought to make uſe of his <hi>Authority</hi> (but at moſt by <hi>modeſt</hi> and <hi>Reaſoning</hi> Offices) to <hi>Induce a Tranſaction;</hi> whatever be his Inclination or intereſt therein. Leaſt, like the Sons of <hi>Eli,</hi> he make <hi>Juſtice to be abhored</hi> upon the account, of what is, even, <hi>Ceded</hi> to by <hi>that Concuſſion.</hi>
+            </p>
+            <p>What is premiſed doth agree pretty Exactly with the <hi>Scripture</hi>- and <hi>Law-Character</hi> of a Judge.</p>
+            <p>A Man of <hi>Truth, fearing GOD, able</hi> and <hi>ready</hi> to Judge the People <hi>at all Seaſons;</hi> neither reſpecting the <hi>Perſon</hi> of the <hi>Poor,</hi> nor <hi>Ho<g ref="char:EOLhyphen"/>nouring
+<pb facs="tcp:179762:4"/> the Perſon of the Mighty.</hi> He <hi>Searcheth out the Cauſe, which he knows not;</hi> and to that end, ſtayes Judgment, <hi>tho it ſeem Juſt,</hi> at the time, till the <hi>other party come and Search it out.</hi> Hee's never Ruffled with <hi>Paſſion,</hi> whatever Occurr; knowing that <hi>GOD guides the meek in Judgement;</hi> and the <hi>Wrath of Man works not the Righteouſneſs of GOD.</hi> If the Caſe be <hi>too hard</hi> at preſent; he waits till <hi>this alſo be revealed</hi> to him: But Acts nothing <hi>through heaſt;</hi> for <hi>A furious Man aboundeth in Tranſgreſſion.</hi> Tho there be a Reall, Yea unnacountable, <hi>Eſcape in a fellow-Judge;</hi> yet they are to <hi>Honour one another before the People.</hi> And even as <hi>to private Perſons,</hi> whoſe Names fall to be mentioned in a Cauſe; the Judge is not to <hi>receive an evil Report;</hi> ſince <hi>Veritas convitii non Excuſat in-Juriantem,</hi> except in <hi>ſo far as</hi> it Influenceth the Cauſe, being a <hi>direct Ingredi<g ref="char:EOLhyphen"/>ent</hi> in the Deciſion thereof. He will, likewiſe, <hi>commend</hi> himſelf to the <hi>Conſciences of others;</hi> Eſpecially thoſe that are <hi>without.</hi> He'll Covet <hi>Reſpect</hi> rather from <hi>Love</hi> than <hi>fear:</hi> This laſt being the <hi>affection</hi> for which the Devil deſires Sacrifice from the Pagans. Redeeming of <hi>others time,</hi> from his own Idle words; and ſpeaking <hi>the Truth in his Heart;</hi> muſt Superceed <hi>Vain Diſcourſes,</hi> and Ex<g ref="char:EOLhyphen"/>clude <hi>Arguments</hi> which a Man himſelf doth not beleive. As the <hi>wreſting anothers words,</hi> is Equal to that <hi>Contention</hi> and <hi>Fooliſh Bab<g ref="char:EOLhyphen"/>ling,</hi> which is forbidden in Religion.</p>
+            <p>But the moſt dangerous Rock, to an Honeſt-Man; is a pretence of <hi>Equity,</hi> or <hi>Private knowledge;</hi> in Colliſion with <hi>Law,</hi> or <hi>Publick</hi> Know<g ref="char:EOLhyphen"/>ledge, by the Records of Proces, <hi>&amp;c.</hi> As to which: The Ordinary <hi>Diſ<g ref="char:EOLhyphen"/>tinctions</hi> will Eaſily diſſentangle him with ſufficient ſafety. For</p>
+            <p>As to <hi>Law: Legal Equity</hi> (called quitas Scripta) is a <hi>Law:</hi> And the <hi>Law</hi> it ſelf <hi>hath bounded</hi> it, to Forms, <hi>Penalties,</hi> ceaſing of the <hi>adequate Reaſon</hi> of a Statute or Cuſtome, <hi>&amp;c.</hi> Which therefore, the <hi>Pretorian or Chancry-power</hi> may <hi>apply.</hi> But Imaginary <hi>Cerebrine Equity</hi> that ſtarts up upon ſight, and Fancies that the <hi>Law it ſelf</hi> is not Juſt in a particular Caſe; Turns the Judge (who is only an <hi>Executor</hi>) to a Legiſlator; and Sets up indigeſted notions or Ma<g ref="char:EOLhyphen"/>gotes, in place of the Solid <hi>Rules</hi> of Law that have been Eſtabliſh<g ref="char:EOLhyphen"/>ed by the wiſdom and Experience of Nations. In a word, it o<g ref="char:EOLhyphen"/>pens a <hi>Sluce</hi> to the greateſt miſcheifs, of <hi>Ignorance, Laſieneſs,</hi> or
+<pb n="8" facs="tcp:179762:5"/> 
+               <hi>Affection;</hi> that would Reduce our <hi>Rights</hi> and <hi>State</hi> to a Chaos.</p>
+            <p>As to <hi>Fact.</hi> Nothing is more Inconſiſtent then <hi>one</hi> Mans being <hi>Judge and Witneſs</hi> in the ſame <hi>Cauſe;</hi> which plainly Excludes <hi>pri<g ref="char:EOLhyphen"/>vat</hi> knowledge, or <hi>unproven Aſſertions</hi> of the parties, from being his Rule. Beſides, that he's only a ſingle Teſtimony at beſt; and, frequently, the <hi>Subject</hi> is not Capable of <hi>ſuch a proof,</hi> even tho there were Wittneſſes Concurring. Nevertheleſs; it's Generally thought, that tho', <hi>poſitively,</hi> he cannot <hi>Decern</hi> on his proper knowledge; where there is not ſufficient <hi>Legal Proof:</hi> Yet, <hi>Ne<g ref="char:EOLhyphen"/>gatively,</hi> he may <hi>aſſoilzie;</hi> when the pretended Legal Evidence <hi>ei non faciunt fidem,</hi> upon his proper <hi>certain aſſurance</hi> of the Contrary: at the leaſt he may, in that Caſe, <hi>abſtain from Judging.</hi>
+            </p>
+            <p>As to the <hi>ſecond;</hi> Concerning the Judges <hi>Diligence</hi> in Expedite<g ref="char:EOLhyphen"/>ing the <hi>Buſineſs of Judgement:</hi> It may be Compriſed under <hi>two</hi> Heads; Namely 1mo. What relates to the Diſcuſſion of <hi>Proceſſes.</hi> 2do. What reguards <hi>Acts</hi> of Court or Sederunt, for diſpatch thereof.</p>
+            <p>It's needleſs to Expatiat upon the Diligence requiſite in <hi>Pro<g ref="char:EOLhyphen"/>ceſſes;</hi> either as to keeping particular <hi>Legal Dyets,</hi> or a <hi>careful per<g ref="char:EOLhyphen"/>uſal</hi> of Papers put into the Boxes: Since you will ſee a <hi>bright Ex<g ref="char:EOLhyphen"/>ample</hi> thereof in your Colleagues. Who are, to the Convicti<g ref="char:EOLhyphen"/>on of all that have opportunity of knowing it; under a <hi>ſurpriſing Fatigue;</hi> and conſider the ſeveral Points of Cauſes, <hi>more Minutely</hi> and <hi>Gradually,</hi> then, perhaps, any other Judicature in <hi>Europe.</hi> There being few Caſes of <hi>Intricacy</hi> or <hi>Import,</hi> which want a <hi>Triple-Concoction</hi> (at the Fore-Bar, Side-Bar, and Inner-Houſe) in a very <hi>ſhort time:</hi> And this is Equivalent, with far leſs <hi>Dela y, Trouble,</hi> and <hi>Expence;</hi> to the <hi>ſeveral Appeals</hi> that are made from <hi>Court</hi> to <hi>Court</hi> in other Conſtitutions.</p>
+            <p>This Induſtrious <hi>Study</hi> of Proceſſes hath <hi>two</hi> Incident Advan<g ref="char:EOLhyphen"/>tages; Namely, <hi>One, to the Publick;</hi> For when the Ordinary <hi>Poſſeſſes the Cauſe,</hi> he can Reduce it to <hi>nete Points:</hi> Which not only <hi>abridges</hi> much <hi>Writting</hi> and time, when it's determined by himſelf, or Reported; but, likewiſe, will ſhortly, make the <hi>Body of our Law,</hi> one of the moſt <hi>diſtinct</hi> and <hi>determined,</hi> in Europe; by a Tract of Multiplicity and uniformity of Deciſions. The <hi>other</hi>
+               <pb n="9" facs="tcp:179762:5"/> good Effect thereof will Redound to the <hi>Judge himſelf:</hi> So <hi>fixing</hi> his knowledge of the <hi>true State</hi> of the Caſe, that, <hi>thereafter,</hi> he ſoon diſcovers, <hi>with Eaſe;</hi> any <hi>Fallacious Repreſentation</hi> of it, made to him<g ref="char:EOLhyphen"/>ſelf or the whole Lords: and thereby, is <hi>proof</hi> againſt the vari<g ref="char:EOLhyphen"/>ous Inventions of parties; for <hi>prolonging</hi> the Plea, or making the Judges <hi>Affections</hi> to <hi>Swerve,</hi> in it.</p>
+            <p>The Convictions of <hi>Conſcience,</hi> upon <hi>afounded knowledge,</hi> are the ſureſt <hi>antidote</hi> againſt the <hi>Plague,</hi> of <hi>all manner of Solicitations:</hi> be<g ref="char:EOLhyphen"/>cauſe, this <hi>Inextinguiſhable Light</hi> cannot be Evaded by the <hi>Deluſive Colours, whereby the beſt</hi> Laws that ever were made for <hi>Impartiali<g ref="char:EOLhyphen"/>ty,</hi> may be incroched on; Not Excepting the Excellent <hi>Fences</hi> which the Noble Bench have <hi>Sett; Calling in Honour</hi> to their Aſ<g ref="char:EOLhyphen"/>ſiſtance; againſt this <hi>peſt.</hi>
+            </p>
+            <p>Notwithſtanding of all which Amaſeing <hi>Accurracy</hi> of our Judges: Yet there is a great prejudice or Vulgar Error; taken up by ſeverals of the <hi>leſs-thinking,</hi> at home, and amongſt our Nighbours; againſt that part of the Conſtitution, by which they may, and do, <hi>alter Interloquitors;</hi> upon a <hi>ſecond View</hi> of the Caſe: before it be Terminat by an <hi>
+                  <g ref="char:V">Ʋ</g>ltimale Extract.</hi>
+            </p>
+            <p>But this <hi>miſtake</hi> will Evaniſh, or rather, reſolve into one of the <hi>greateſt Glories</hi> of that Judicatory; when it's conſidered: 1mo. That, <hi>in the Nature of the thing;</hi> Man is <hi>Fallible:</hi> And therefore, if he either <hi>ſhut his Eyes,</hi> from a <hi>Head-ſtrong</hi> Obdiuracy; againſt <hi>further Light</hi> (under competent Regulations) or do <hi>not change</hi> upon Diſcovery of <hi>greater Light,</hi> which <hi>afinite Mind</hi> may not have <hi>looked too</hi> with <hi>penetration</hi> enough, at the <hi>firſt</hi> preſentment: It's a Criminal <hi>Debarring of Truth,</hi> or a direct <hi>Stiffling</hi> of <hi>Conſci<g ref="char:EOLhyphen"/>ence.</hi> 2do. <hi>In Reputation;</hi> nothing can more Demonſtrate the <hi>Impartiality</hi> and <hi>ſelf-denyal</hi> of the Judge; then the giveing up of his own (Imaginary) <hi>Honour</hi> (which ſome, <hi>falſly</hi> think to be Intereſted in a former Vote) as an Act <hi>of Fealty</hi> and <hi>Homage</hi> to venerable <hi>Juſtice;</hi> which is a <hi>Ray of Divinity;</hi> when it comes to appear in it's <hi>true Luſtre.</hi> But further 3tio. <hi>In Experience;</hi> theſe alterations, for the moſt part, Occurr upon Repreſentations of <hi>new Fact;</hi> not formerly <hi>Informed Diſtinctly</hi> by the <hi>Lawer;</hi> or, in
+<pb n="10" facs="tcp:179762:6"/> the throng of Buſſineſs, not <hi>narrowly noticed</hi> by the Judge. Neither of which is a ground of the leaſt <hi>Reflection</hi> upon the beſt <hi>Humane <g ref="char:V">Ʋ</g>nderſtanding</hi> and <hi>Memory;</hi> in ſuch a <hi>Multiplicity</hi> of Affairs, as are known to <hi>flow</hi> upon that Court, eſpecially toward the End of Seſſions. For 4to. In the <hi>Examples of other Nations;</hi> there is a far greater <hi>variation</hi> allowed. Thus, not only does one Court alter, upon <hi>Appeal,</hi> what another had determined (all which <hi>Gradations,</hi> are Compriſed in the Conſtitution of our Seffion as aforeſaid) but likewiſe, even the <hi>ſame Supream Court</hi> does, fre<g ref="char:EOLhyphen"/>quently, overrule what was Eſtabliſhed before; as appears by their Printed <hi>Reports</hi> and <hi>Deciſions.</hi> And there is a <hi>Reviſio Revi<g ref="char:EOLhyphen"/>ſionis</hi> at leaſt, allowed of the ſame <hi>individual Cauſe;</hi> in thoſe <hi>Sove<g ref="char:EOLhyphen"/>raign Tribunals</hi> which pretend to be the moſt <hi>Nice</hi> and <hi>Expeditious.</hi>
+            </p>
+            <p>There is an Obvious <hi>Advertiſement</hi> which ariſes, naturally; from this <hi>prodigious Toyl,</hi> in takeing <hi>up at firſt;</hi> or <hi>Subſequent Re<g ref="char:EOLhyphen"/>view</hi> of Cauſes, amongſt us; and from many other <hi>greater Drudg<g ref="char:EOLhyphen"/>eries</hi> incident to Ordinaries, on the <hi>Bills, Witneſſeſs, Compts,</hi> and <hi>Rankings, &amp;c.</hi> Namely, <hi>that the</hi> Judge do his <hi>duty, with Chearfulneſs;</hi> without fretting at ſo great a Labour. For; he has <hi>Sworn</hi> this Fealty to his <hi>GOD</hi> and <hi>Prince:</hi> And therefore muſt not Grudge in paying that <hi>Redendo</hi> of Homage and Service. There is a Natural and Religious <hi>Delight</hi> in <hi>doing good, with all the might;</hi> whence it Follows, That the <hi>greater</hi> fatigue, Eſpecially when it's Succeſsful; will <hi>Enhance</hi> and <hi>Aggrandize</hi> the <hi>allacrity</hi> Beſides that, ſuch <hi>Common Offices</hi> being <hi>Tranſmuted</hi> to Acts of <hi>Religion</hi> towards <hi>GOD</hi> and <hi>Man:</hi> they <hi>look forward</hi> to proportional <hi>Degrees of Glory,</hi> at the laſt <hi>Recompence of Reward.</hi> Laſtly, this <hi>Ra<g ref="char:EOLhyphen"/>tional Exerciſe</hi> of the <hi>Soul,</hi> is the moſt <hi>Manly</hi> and <hi>Noble,</hi> that Exiſts in Humane, Civil, <hi>Society:</hi> Not being Subject to the <hi>uncertainties</hi> of the <hi>Philoſophers,</hi> and <hi>Phyſitians;</hi> nor obnoxious to the <hi>Variety of Humors,</hi> which diſturb the <hi>Lawyer,</hi> and <hi>Statsman, &amp;c.</hi> And there<g ref="char:EOLhyphen"/>fore, the moſt <hi>Ingenious</hi> and <hi>Senſible</hi> Man muſt be <hi>Enamoured</hi> with it.</p>
+            <p>In reflecting upon <hi>Acts of Sederunt:</hi> I remember to have heard, that, by your Inſtitution, you have <hi>ſufficient Powers</hi> for
+<pb n="11" facs="tcp:179762:6"/> making us <hi>Eaſy;</hi> without troubling the Legiſlative: Who may <hi>miſtake,</hi> and thereby <hi>marr,</hi> ſo nice a <hi>Conſtitution;</hi> as to ſuch <hi>Forms,</hi> which, by their mutual <hi>Dependance,</hi> are like the <hi>Wheels</hi> of a <hi>Clok,</hi> one whereof being altered, (tho', in <hi>Appearance,</hi> to the <hi>better</hi>) makes the whole Machine to <hi>reel.</hi>
+            </p>
+            <p>I doubt not but ſo eminent a <hi>Set</hi> of Judges as you're to enter too, will exerce their <hi>Legal Faculty:</hi> Eſpecially with Reguard to what does not <hi>Leſe</hi> the <hi>Subſtance</hi> of the Eſtabliſhment. Such as; the <hi>Cuting off</hi> ſome needleſs <hi>Scrupuloſities</hi> of <hi>Formes;</hi> which ſerved rather to make the Law a <hi>Miſtery</hi> or <hi>Trade,</hi> than for a <hi>Regular vehicle</hi> of Juſtice; and whereof the wiſe <hi>Romans</hi> were <hi>weary</hi> at laſt <hi>(Tit. C. de antiquis formulis tollendis)</hi> and which has been the <hi>genius</hi> of Proceedings, with us, ſince the Revolution. Of the ſame kind is the <hi>Reſtraint,</hi> by <hi>gradual Penalties;</hi> of <hi>Bills:</hi> found to be <hi>Groundleſs:</hi> Or of <hi>unneceſſary Bills;</hi> upon Subjects which an Or<g ref="char:EOLhyphen"/>dinary might be impowered to expede. And it will be a Glory to the Honourable Bench, if they fall upon a Meaſure, for <hi>Re<g ref="char:EOLhyphen"/>moving</hi> the <hi>Reproach,</hi> by the <hi>Diſpatch,</hi> of <hi>Compts,</hi> and <hi>Rankings:</hi> which, at preſent, irremediably ſtick: I mean, for <hi>want of Power</hi> in the Auditor; of appointing proper <hi>Aſſiſtants</hi> to Clerks (according to the Nature of the Reſpective <hi>Subjects</hi>) for order<g ref="char:EOLhyphen"/>ing the <hi>Fact in Minuts;</hi> and a competent <hi>Reward</hi> of theſe Pains: Reſerving to the Ordinary himſelf, both the power of <hi>Superviſing</hi> thoſe Minuts, and <hi>pronuncing</hi> the <hi>Law</hi> Interloquitors thereon <hi>&amp;c.</hi> which <hi>Sort</hi> of <hi>Method</hi> has been found <hi>neceſſary</hi> and <hi>expedient;</hi> by all rhe Soveraign Judicatories <hi>Abroad,</hi> and our <hi>Neighbours</hi> at <hi>Home<g ref="char:punc">▪</g>
+               </hi> and has been, ſometimes, ſucceſsfully uſed amongſt <hi>our ſelves,</hi> in our Supream Courts <hi>&amp;c.</hi>
+            </p>
+            <p>But there is <hi>one Caution,</hi> which I preſume to hint, if you come to be concerned; Namely, that when ſuch <hi>Acts</hi> are offered, u<g ref="char:EOLhyphen"/>pon <hi>Deliberation</hi> of <hi>ſome</hi> of your Colleagues; you do <hi>not obſtruct:</hi> Tho' the <hi>Matter</hi> or <hi>Expreſſion</hi> anſwer not, preciſely, to what you think <hi>beſt.</hi> For, ſuch <hi>Peculiarities</hi> are an <hi>Embargo,</hi> for the moſt part, upon <hi>any Proceedings;</hi> there being, commonly, in Subjects <hi>not already determined;</hi> as great a <hi>Variety</hi> of <hi>Opinions</hi> as of <hi>faces,</hi>
+               <pb n="12" facs="tcp:179762:7"/> Yet, if you are truely afraid, that the <hi>Rule</hi> propoſed will, upon the <hi>Matter,</hi> be pernicious in it's Conſequences; but not able to perſwade, the Majority, thereof: Then, why may it not be <hi>try<g ref="char:EOLhyphen"/>ed for a</hi> Seſſion, or a Year? To expire at a determined <hi>Time,</hi> unleſs if be continued. Of which kind of <hi>Temporary</hi> Acts for Experiment; There are many Precedents; in the Records, even, of the <hi>Legiſlative Wiſdom</hi> here and in <hi>England.</hi>
+            </p>
+            <p>I ſuppoſe that er'e now, you deſire to be <hi>Relieved</hi> from the im<g ref="char:EOLhyphen"/>pertinent <hi>length</hi> of my Addreſs; Tho' there are a great many other <hi>Things,</hi> in which it might be uſeful for you to know the <hi>Senſe of the Country:</hi> But, to <hi>ſupply</hi> the reſt; without running back to Examples of <hi>Antiquity</hi> Civil or Sacred, or incroaching on the Modeſty of Living Inſtances; I leave with you two re<g ref="char:EOLhyphen"/>cent <hi>Patterns,</hi> one in our own, and the other in our Neighbour<g ref="char:EOLhyphen"/>ing Nation: Namely, the Lord Cheif Juſtice <hi>Hales,</hi> and the Lord Preſident <hi>Stair;</hi> as poſſeſt of all that <hi>Learning, Wiſdom,</hi> and <hi>Religion,</hi> which their excellent <hi>Works</hi> derive <hi>doun,</hi> to late <hi>Poſte<g ref="char:EOLhyphen"/>rity.</hi> And that you may poſſeſs the <hi>Spirit</hi> which <hi>Inligthned</hi> and <hi>Conducted</hi> thoſe Illuſtrious <hi>Heroes;</hi> is the earneſt Wiſh of,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your moſt Faithful Friend, and moſt Humble Servant</hi> &amp;c.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
